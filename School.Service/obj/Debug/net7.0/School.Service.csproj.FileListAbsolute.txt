@@ -1,0 +1,17 @@
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Service\bin\Debug\net7.0\School.Service.deps.json
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Service\bin\Debug\net7.0\School.Service.dll
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Service\bin\Debug\net7.0\School.Service.pdb
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Service\bin\Debug\net7.0\School.Data.dll
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Service\bin\Debug\net7.0\School.Infrastructure.dll
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Service\bin\Debug\net7.0\School.Data.pdb
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Service\bin\Debug\net7.0\School.Infrastructure.pdb
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Service\obj\Debug\net7.0\School.Service.csproj.AssemblyReference.cache
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Service\obj\Debug\net7.0\School.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Service\obj\Debug\net7.0\School.Service.AssemblyInfoInputs.cache
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Service\obj\Debug\net7.0\School.Service.AssemblyInfo.cs
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Service\obj\Debug\net7.0\School.Service.csproj.CoreCompileInputs.cache
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Service\obj\Debug\net7.0\School.Service.csproj.CopyComplete
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Service\obj\Debug\net7.0\School.Service.dll
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Service\obj\Debug\net7.0\refint\School.Service.dll
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Service\obj\Debug\net7.0\School.Service.pdb
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Service\obj\Debug\net7.0\ref\School.Service.dll

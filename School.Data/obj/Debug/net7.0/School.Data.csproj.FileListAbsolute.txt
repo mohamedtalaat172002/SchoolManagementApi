@@ -1,0 +1,11 @@
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Data\bin\Debug\net7.0\School.Data.deps.json
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Data\bin\Debug\net7.0\School.Data.dll
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Data\bin\Debug\net7.0\School.Data.pdb
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Data\obj\Debug\net7.0\School.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Data\obj\Debug\net7.0\School.Data.AssemblyInfoInputs.cache
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Data\obj\Debug\net7.0\School.Data.AssemblyInfo.cs
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Data\obj\Debug\net7.0\School.Data.csproj.CoreCompileInputs.cache
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Data\obj\Debug\net7.0\School.Data.dll
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Data\obj\Debug\net7.0\refint\School.Data.dll
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Data\obj\Debug\net7.0\School.Data.pdb
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Data\obj\Debug\net7.0\ref\School.Data.dll
