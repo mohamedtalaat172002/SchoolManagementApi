@@ -9,3 +9,4 @@ C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Data\obj\Debug\
 C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Data\obj\Debug\net7.0\refint\School.Data.dll
 C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Data\obj\Debug\net7.0\School.Data.pdb
 C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Data\obj\Debug\net7.0\ref\School.Data.dll
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Data\obj\Debug\net7.0\School.Data.sourcelink.json

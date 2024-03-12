@@ -7,8 +7,9 @@ using System.Threading.Tasks;
 
 namespace School.Service.Abstracts
 {
-    internal interface IStudentServices
+    public interface IStudentServices
     {
         Task<IEnumerable<Student>> GetAllStudents();
+        Task<Student> GetStudentById(int id);
     }
 }

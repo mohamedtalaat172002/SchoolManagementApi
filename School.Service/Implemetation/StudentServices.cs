@@ -1,4 +1,5 @@
-﻿using School.Data.Entities;
+﻿using Microsoft.EntityFrameworkCore;
+using School.Data.Entities;
 using School.Infrastructure.Abstracts;
 using School.Service.Abstracts;
 using System;
@@ -13,14 +14,24 @@ namespace School.Service.Implemetation
     {
         private readonly IstudentRepository _studentRepository;
 
-        public StudentServices(IstudentRepository istudentRepository)
+        public StudentServices(IstudentRepository studentRepository)
         {
-            _studentRepository = istudentRepository;
+            _studentRepository = studentRepository;
         }
         public async Task<IEnumerable<Student>> GetAllStudents()
         {
             var students= await _studentRepository.GetAllStudents();
             return students;
+        }
+
+        public async Task<Student> GetStudentById(int id)
+        {
+            var student =_studentRepository.GetTableNoTracking()
+                                .Include(d=>d.Department)
+                                .Where(c=>c.StudID.Equals(id))
+                                .FirstOrDefault();
+                                 
+            return student;
         }
     }
 }

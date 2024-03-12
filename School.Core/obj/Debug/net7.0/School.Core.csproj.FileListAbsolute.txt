@@ -17,3 +17,4 @@ C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Core\obj\Debug\
 C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Core\obj\Debug\net7.0\refint\School.Core.dll
 C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Core\obj\Debug\net7.0\School.Core.pdb
 C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Core\obj\Debug\net7.0\ref\School.Core.dll
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Core\obj\Debug\net7.0\School.Core.sourcelink.json

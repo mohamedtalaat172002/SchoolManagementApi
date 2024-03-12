@@ -15,3 +15,4 @@ C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Infrastructure\
 C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Infrastructure\obj\Debug\net7.0\School.Infrastructure.pdb
 C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Infrastructure\obj\Debug\net7.0\School.Infrastructure.genruntimeconfig.cache
 C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Infrastructure\obj\Debug\net7.0\ref\School.Infrastructure.dll
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\School.Infrastructure\obj\Debug\net7.0\School.Infrastructure.sourcelink.json

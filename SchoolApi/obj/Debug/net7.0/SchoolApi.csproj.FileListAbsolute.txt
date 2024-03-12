@@ -82,3 +82,9 @@ C:\Users\Hardware Store\Desktop\projects\SchoolManagement\SchoolApi\bin\Debug\ne
 C:\Users\Hardware Store\Desktop\projects\SchoolManagement\SchoolApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\Hardware Store\Desktop\projects\SchoolManagement\SchoolApi\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\Users\Hardware Store\Desktop\projects\SchoolManagement\SchoolApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\SchoolApi\obj\Debug\net7.0\SchoolApi.sourcelink.json
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\SchoolApi\bin\Debug\net7.0\MediatR.dll
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\SchoolApi\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\SchoolApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\SchoolApi\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Hardware Store\Desktop\projects\SchoolManagement\SchoolApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

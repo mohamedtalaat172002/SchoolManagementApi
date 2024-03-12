@@ -1,7 +1,21 @@
-﻿namespace School.Core
+﻿using MediatR;
+using Microsoft.Extensions.DependencyInjection;
+using System.Reflection;
+
+
+namespace School.Core
 {
-    public static  class Class1
+    public static class ModuleCoreDependecies
     {
+        public static IServiceCollection AddCoreDependencies(this IServiceCollection services)
+        {
+            //register Mediator
+            services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblies(Assembly.GetExecutingAssembly()));
+            //register AutoMapping
+            services.AddAutoMapper(Assembly.GetExecutingAssembly());
+            return services;
+
+        }
 
     }
 }
